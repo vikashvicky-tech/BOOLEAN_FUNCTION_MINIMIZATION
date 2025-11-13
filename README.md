@@ -42,13 +42,12 @@ endmodule
 ```
 
 **RTL realization**
-
+**Output:**
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/8081ca0d-a1a8-480d-8e6a-56c0a3eb49df" />
 
-**Output:**
-<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/2d77fab5-7f35-4ed9-bd4c-04ea9bac7a95" />
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/2d77fab5-7f35-4ed9-bd4c-04ea9bac7a95" />
 
 **Timing Diagram**
 
